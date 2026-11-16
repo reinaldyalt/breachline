@@ -1,5 +1,9 @@
 # BREACHLINE — a tactical FPS on three.js
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/reinaldyalt/breachline/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/reinaldyalt/breachline/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A round-based tactical first-person shooter in the style Counter-Strike made
 famous, built entirely from original art, names and a map of my own design.
 Single-player against bots, static files, no network, no build step.
@@ -82,5 +86,8 @@ writes `dossier.json` with the kit's `vendor/makefun-threejs.ts`.
 - `game/src/hud.js` — DOM HUD, buy menu, live minimap
 - `game/src/audio.js` — procedural WebAudio effects
 
-Built for make.fun's **threejs-fps-01** bounty ("Make the best three.js
-tactical FPS", $1,000). MIT licensed.
+Built for make.fun's [**threejs-fps-02** bounty](https://make.fun/bounty/threejs-fps-02) ("Make the best three.js tactical FPS", $1,000). MIT licensed.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nvkfmre4&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
